@@ -1,4 +1,7 @@
 
 # CoderDojo Oder-Spree Website
 
-gamstc.github.io
+An old version, still available at gamstc.github.io
+
+Current version live at oderdojo.github.io
+
