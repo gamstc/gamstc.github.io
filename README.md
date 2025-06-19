@@ -1,7 +1,6 @@
 
-# CoderDojo Oder-Spree Website
+# Personal Website
+## Cornelia Gamst | AI Consulting and Trainings
 
-An old version, still available at gamstc.github.io
-
-Current version live at oderdojo.github.io
+gamstc.github.io 
 
