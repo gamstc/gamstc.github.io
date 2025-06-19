@@ -1,6 +1,6 @@
 
 # Personal Website
-## Cornelia Gamst | AI Consulting and Trainings
+### Cornelia Gamst | AI Consulting and Trainings
 
-gamstc.github.io 
+Available at [gamstc.github.io](https://gamstc.github.io)
 
