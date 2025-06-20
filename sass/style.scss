@@ -194,9 +194,10 @@ h1, h2, h3, h4, h5, h6, figure {
 
 	}
 	#fh5co-logo {
-		font-size: 24px;
+		font-size: 20px;
 		margin: 0;
 		padding: 0;
+		white-space: nowrap;
 		text-transform: uppercase;
 		font-weight: 600;
 		font-family: $font-secondary;
